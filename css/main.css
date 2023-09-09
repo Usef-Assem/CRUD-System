@@ -1,0 +1,11 @@
+body{
+    background-color: #A78295;
+}
+textarea{
+    resize: none;
+}
+.h1-cstm{
+    font-family: fantasy, Haettenschweiler, 'Arial Narrow Bold', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 700;
+    display: none;
+}
